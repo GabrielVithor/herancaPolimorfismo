@@ -1,17 +1,13 @@
-public class Coordenador extends Funcionario{
-    private String titulo;
-    private String descricao;
+import java.util.List;
 
+public class Coordenador extends Funcionario{
     public Coordenador(String nome,
                        String cpf,
-                       Double salario,
-                       Agenda agenda,
-                       String titulo,
-                       String descricao) {
+                       Double salario) {
         super(nome, cpf, salario);
-        this.titulo = titulo;
-        this.descricao = descricao;
     }
 
-    public void alocarProfessor(Funcionario professor){}
+    public void alocarProfessor(Professor professor,Turma turma){
+        professor.setTurmaPeriodo(turma);
+    }
 }

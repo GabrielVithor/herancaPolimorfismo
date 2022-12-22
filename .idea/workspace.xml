@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e500f8d3-08ac-40b5-b528-378a3dd68c07" name="Changes" comment="Start heranca e polimorfismo">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artigo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Turma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Agenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Agenda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Coordenador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coordenador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Diretor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Diretor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Professor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Secretario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Secretario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -44,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/workspace/letsCode"
+    "last_opened_file_path": "C:/workspace/letsCode/javaOrientadoObjeto/herancaPolimorfismo"
   }
 }]]></component>
   <component name="RunManager">

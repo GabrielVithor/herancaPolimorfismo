@@ -14,13 +14,17 @@ public class Professor extends Funcionario {
         artigosPublicados.add(artigo);
     }
 
-    public void cadastroTurma(Turma turma){
-        turmaPeriodo.add(turma);
+    public void setTurmaPeriodo(Turma turmaPeriodo) {
+        this.turmaPeriodo.add(turmaPeriodo);
     }
 
     @Override
     public String toString() {
         return "Professor{" +
+                "\nnome='" + super.getNome() + '\'' +
+                ", \ncpf='" + super.getCpf() + '\'' +
+                ", \nsalario=" + super.getSalario() +
+                ", \nagenda=" + super.getAgenda() +
                 "\nartigosPublicados=" + artigosPublicados +
                 ", \nturmaPeriodo=" + turmaPeriodo +
                 "\n}";
